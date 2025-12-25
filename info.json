@@ -1,0 +1,18 @@
+{
+  "name": "ERPCSESC",
+  "version": "0.2.7",
+  "factorio_version": "1.1",
+  "title": "Expanded Rocket Payloads Continued space extenstion standalone compat",
+  "author": "SuperSandro2000, patched by quindao",
+  "dependencies": [
+    "base >= 1.1.0",
+    "expanded-rocket-payloads-continued >= 0.17.0",
+    "boblibrary >= 0.18.0",
+    "? SpaceModFeorasFork >= 1.2.0",
+    "? SpaceMod >= 0.5.1",
+    "(?) angelsindustries",
+    "! ERPCTbaAB >= 0.0.0"
+
+  ],
+  "description": "Contains the space extension integration of Expanded Rocket Payloads Continued touched by an angel bob, just without needing angel bobs"
+}
