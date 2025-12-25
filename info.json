@@ -1,9 +1,11 @@
 {
   "name": "ERPCSESC",
   "version": "0.2.7",
-  "factorio_version": "1.1",
+  "factorio_version": "2.0",
   "title": "Expanded Rocket Payloads Continued space extenstion standalone compat",
   "author": "SuperSandro2000, patched by quindao",
+  "contact": "https://github.com/ChrisJStone/ERPCSESC/issues",
+  "homepage": "https://github.com/ChrisJStone/ERPCSESC",
   "dependencies": [
     "base >= 1.1.0",
     "expanded-rocket-payloads-continued >= 0.17.0",
